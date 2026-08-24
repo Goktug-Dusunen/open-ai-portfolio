@@ -12,6 +12,7 @@ from urllib.request import Request, urlopen
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA_PATH = ROOT / "data" / "portfolio.json"
+DOCS_DATA_PATH = ROOT / "docs" / "portfolio.json"
 README_PATH = ROOT / "README.md"
 OWNERS = ("GoktugD", "Werea-co")
 KINDS = ("models", "datasets", "spaces")
@@ -135,6 +136,8 @@ def main() -> None:
         json.dumps(catalog, ensure_ascii=False, indent=2) + "\n",
         encoding="utf-8",
     )
+    DOCS_DATA_PATH.parent.mkdir(parents=True, exist_ok=True)
+    DOCS_DATA_PATH.write_text(DATA_PATH.read_text(encoding="utf-8"), encoding="utf-8")
     update_readme(catalog)
     total = sum(
         len(artifacts[kind])

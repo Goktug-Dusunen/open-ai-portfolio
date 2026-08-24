@@ -1,0 +1,701 @@
+{
+  "generated_at": "2026-08-24T13:38:45+00:00",
+  "owners": {
+    "GoktugD": {
+      "models": [
+        {
+          "id": "GoktugD/DUSUNEN-Atlas-278M-v1",
+          "url": "https://huggingface.co/GoktugD/DUSUNEN-Atlas-278M-v1",
+          "task": "sentence-similarity",
+          "downloads": 42,
+          "likes": 3,
+          "last_modified": "2026-08-13T18:29:01.000Z"
+        },
+        {
+          "id": "GoktugD/DUSUNEN-Dinle-244M-v1",
+          "url": "https://huggingface.co/GoktugD/DUSUNEN-Dinle-244M-v1",
+          "task": "automatic-speech-recognition",
+          "downloads": 49,
+          "likes": 0,
+          "last_modified": "2026-08-14T09:50:08.000Z"
+        },
+        {
+          "id": "GoktugD/DUSUNEN-Mercek-118M-research-v0",
+          "url": "https://huggingface.co/GoktugD/DUSUNEN-Mercek-118M-research-v0",
+          "task": "text-classification",
+          "downloads": 21,
+          "likes": 0,
+          "last_modified": "2026-08-13T18:49:44.000Z"
+        },
+        {
+          "id": "GoktugD/DUSUNEN-Mercek-118M-v1",
+          "url": "https://huggingface.co/GoktugD/DUSUNEN-Mercek-118M-v1",
+          "task": "text-classification",
+          "downloads": 12,
+          "likes": 0,
+          "last_modified": "2026-08-13T19:34:33.000Z"
+        },
+        {
+          "id": "GoktugD/DUSUNEN-Nokta-68M-v1",
+          "url": "https://huggingface.co/GoktugD/DUSUNEN-Nokta-68M-v1",
+          "task": "token-classification",
+          "downloads": 25,
+          "likes": 0,
+          "last_modified": "2026-08-14T16:24:41.000Z"
+        },
+        {
+          "id": "GoktugD/DUSUNEN-Oku-62M-v1",
+          "url": "https://huggingface.co/GoktugD/DUSUNEN-Oku-62M-v1",
+          "task": "image-to-text",
+          "downloads": 73,
+          "likes": 1,
+          "last_modified": "2026-08-15T13:18:09.000Z"
+        },
+        {
+          "id": "GoktugD/DUSUNEN-Pusula-118M-v0",
+          "url": "https://huggingface.co/GoktugD/DUSUNEN-Pusula-118M-v0",
+          "task": "sentence-similarity",
+          "downloads": 38,
+          "likes": 0,
+          "last_modified": "2026-08-13T18:49:39.000Z"
+        },
+        {
+          "id": "GoktugD/DUSUNEN-Pusula-118M-v1",
+          "url": "https://huggingface.co/GoktugD/DUSUNEN-Pusula-118M-v1",
+          "task": "sentence-similarity",
+          "downloads": 42,
+          "likes": 0,
+          "last_modified": "2026-08-13T19:38:48.000Z"
+        },
+        {
+          "id": "GoktugD/DUSUNEN-Rota-270M-v1",
+          "url": "https://huggingface.co/GoktugD/DUSUNEN-Rota-270M-v1",
+          "task": "sentence-similarity",
+          "downloads": 566,
+          "likes": 1,
+          "last_modified": "2026-08-13T19:16:55.000Z"
+        },
+        {
+          "id": "GoktugD/DUSUNEN-Rota-270M-v2",
+          "url": "https://huggingface.co/GoktugD/DUSUNEN-Rota-270M-v2",
+          "task": "sentence-similarity",
+          "downloads": 47,
+          "likes": 0,
+          "last_modified": "2026-08-13T18:49:43.000Z"
+        },
+        {
+          "id": "GoktugD/DUSUNEN-Rota-270M-v3",
+          "url": "https://huggingface.co/GoktugD/DUSUNEN-Rota-270M-v3",
+          "task": "sentence-similarity",
+          "downloads": 15,
+          "likes": 0,
+          "last_modified": "2026-08-21T06:48:35.000Z"
+        },
+        {
+          "id": "GoktugD/Gemstone-Person-Object-Detector-Nano",
+          "url": "https://huggingface.co/GoktugD/Gemstone-Person-Object-Detector-Nano",
+          "task": "object-detection",
+          "downloads": 0,
+          "likes": 0,
+          "last_modified": "2026-08-24T11:15:01.000Z"
+        },
+        {
+          "id": "GoktugD/Llama-NanoSOC1-8B",
+          "url": "https://huggingface.co/GoktugD/Llama-NanoSOC1-8B",
+          "task": "text-generation",
+          "downloads": 24,
+          "likes": 1,
+          "last_modified": "2026-08-21T17:40:30.000Z"
+        },
+        {
+          "id": "GoktugD/NanoSOC-Gemstone-2B-GGUF",
+          "url": "https://huggingface.co/GoktugD/NanoSOC-Gemstone-2B-GGUF",
+          "task": "text-generation",
+          "downloads": 0,
+          "likes": 0,
+          "last_modified": "2026-08-24T09:10:29.000Z"
+        },
+        {
+          "id": "GoktugD/NanoSOC-Gemstone-4B-GGUF",
+          "url": "https://huggingface.co/GoktugD/NanoSOC-Gemstone-4B-GGUF",
+          "task": "text-generation",
+          "downloads": 0,
+          "likes": 0,
+          "last_modified": "2026-08-24T11:56:38.000Z"
+        },
+        {
+          "id": "GoktugD/Werea-DocOCR-1B",
+          "url": "https://huggingface.co/GoktugD/Werea-DocOCR-1B",
+          "task": "image-to-text",
+          "downloads": 14,
+          "likes": 0,
+          "last_modified": "2026-08-21T06:48:43.000Z"
+        },
+        {
+          "id": "GoktugD/Werea-LLM-3B",
+          "url": "https://huggingface.co/GoktugD/Werea-LLM-3B",
+          "task": "text-generation",
+          "downloads": 10,
+          "likes": 0,
+          "last_modified": "2026-08-21T06:48:30.000Z"
+        },
+        {
+          "id": "GoktugD/Werea-NanoSOC-8B",
+          "url": "https://huggingface.co/GoktugD/Werea-NanoSOC-8B",
+          "task": "text-generation",
+          "downloads": 5,
+          "likes": 0,
+          "last_modified": "2026-08-21T12:59:59.000Z"
+        },
+        {
+          "id": "GoktugD/Werea-SecAssist-8B",
+          "url": "https://huggingface.co/GoktugD/Werea-SecAssist-8B",
+          "task": "text-generation",
+          "downloads": 0,
+          "likes": 0,
+          "last_modified": "2026-08-21T14:04:03.000Z"
+        },
+        {
+          "id": "GoktugD/Werea-TR-Intent",
+          "url": "https://huggingface.co/GoktugD/Werea-TR-Intent",
+          "task": "text-classification",
+          "downloads": 21,
+          "likes": 0,
+          "last_modified": "2026-08-21T14:17:18.000Z"
+        },
+        {
+          "id": "GoktugD/Werea-TR-NER",
+          "url": "https://huggingface.co/GoktugD/Werea-TR-NER",
+          "task": "token-classification",
+          "downloads": 8,
+          "likes": 0,
+          "last_modified": "2026-08-21T13:47:35.000Z"
+        },
+        {
+          "id": "GoktugD/Werea-TR-NLI",
+          "url": "https://huggingface.co/GoktugD/Werea-TR-NLI",
+          "task": "text-classification",
+          "downloads": 15,
+          "likes": 0,
+          "last_modified": "2026-08-21T14:14:38.000Z"
+        },
+        {
+          "id": "GoktugD/Werea-TR-QA",
+          "url": "https://huggingface.co/GoktugD/Werea-TR-QA",
+          "task": "question-answering",
+          "downloads": 11,
+          "likes": 0,
+          "last_modified": "2026-08-21T17:18:12.000Z"
+        },
+        {
+          "id": "GoktugD/Werea-TR-QuestionType",
+          "url": "https://huggingface.co/GoktugD/Werea-TR-QuestionType",
+          "task": "text-classification",
+          "downloads": 12,
+          "likes": 0,
+          "last_modified": "2026-08-21T14:03:58.000Z"
+        },
+        {
+          "id": "GoktugD/Werea-TR-Sentiment",
+          "url": "https://huggingface.co/GoktugD/Werea-TR-Sentiment",
+          "task": "text-classification",
+          "downloads": 18,
+          "likes": 0,
+          "last_modified": "2026-08-21T13:08:22.000Z"
+        },
+        {
+          "id": "GoktugD/Werea-TR-Summarizer",
+          "url": "https://huggingface.co/GoktugD/Werea-TR-Summarizer",
+          "task": "summarization",
+          "downloads": 10,
+          "likes": 0,
+          "last_modified": "2026-08-21T15:38:04.000Z"
+        },
+        {
+          "id": "GoktugD/Werea-TR-TextRestore",
+          "url": "https://huggingface.co/GoktugD/Werea-TR-TextRestore",
+          "task": "text-generation",
+          "downloads": 291,
+          "likes": 1,
+          "last_modified": "2026-08-21T17:02:53.000Z"
+        },
+        {
+          "id": "GoktugD/Werea-TR-Topic",
+          "url": "https://huggingface.co/GoktugD/Werea-TR-Topic",
+          "task": "text-classification",
+          "downloads": 15,
+          "likes": 1,
+          "last_modified": "2026-08-21T14:05:05.000Z"
+        },
+        {
+          "id": "GoktugD/Werea-TSS",
+          "url": "https://huggingface.co/GoktugD/Werea-TSS",
+          "task": "text-to-speech",
+          "downloads": 17,
+          "likes": 0,
+          "last_modified": "2026-08-18T15:36:52.000Z"
+        },
+        {
+          "id": "GoktugD/Werea-TSS-1.7B",
+          "url": "https://huggingface.co/GoktugD/Werea-TSS-1.7B",
+          "task": "text-to-speech",
+          "downloads": 0,
+          "likes": 0,
+          "last_modified": "2026-08-18T15:37:05.000Z"
+        }
+      ],
+      "datasets": [
+        {
+          "id": "GoktugD/DUSUNEN-HardNegatives-50K-v1",
+          "url": "https://huggingface.co/datasets/GoktugD/DUSUNEN-HardNegatives-50K-v1",
+          "task": null,
+          "downloads": 89,
+          "likes": 0,
+          "last_modified": "2026-08-13T18:39:33.000Z"
+        },
+        {
+          "id": "GoktugD/DUSUNEN-Research-Papers",
+          "url": "https://huggingface.co/datasets/GoktugD/DUSUNEN-Research-Papers",
+          "task": null,
+          "downloads": 31,
+          "likes": 0,
+          "last_modified": "2026-08-21T13:34:13.000Z"
+        },
+        {
+          "id": "GoktugD/DUSUNEN-Retrieval-100K-v1",
+          "url": "https://huggingface.co/datasets/GoktugD/DUSUNEN-Retrieval-100K-v1",
+          "task": null,
+          "downloads": 100,
+          "likes": 0,
+          "last_modified": "2026-08-13T18:39:32.000Z"
+        },
+        {
+          "id": "GoktugD/DUSUNEN-Turkish-Retrieval-Benchmark-v1",
+          "url": "https://huggingface.co/datasets/GoktugD/DUSUNEN-Turkish-Retrieval-Benchmark-v1",
+          "task": null,
+          "downloads": 92,
+          "likes": 0,
+          "last_modified": "2026-08-13T19:19:58.000Z"
+        },
+        {
+          "id": "GoktugD/turkish-datetime-normalization-500k",
+          "url": "https://huggingface.co/datasets/GoktugD/turkish-datetime-normalization-500k",
+          "task": null,
+          "downloads": 59,
+          "likes": 0,
+          "last_modified": "2026-08-11T10:13:14.000Z"
+        },
+        {
+          "id": "GoktugD/turkish-diacritics-restoration-1m",
+          "url": "https://huggingface.co/datasets/GoktugD/turkish-diacritics-restoration-1m",
+          "task": null,
+          "downloads": 122,
+          "likes": 0,
+          "last_modified": "2026-08-11T10:13:23.000Z"
+        },
+        {
+          "id": "GoktugD/turkish-extractive-qa-1.5m",
+          "url": "https://huggingface.co/datasets/GoktugD/turkish-extractive-qa-1.5m",
+          "task": null,
+          "downloads": 95,
+          "likes": 0,
+          "last_modified": "2026-08-11T10:13:32.000Z"
+        },
+        {
+          "id": "GoktugD/turkish-formality-rewrite-500k",
+          "url": "https://huggingface.co/datasets/GoktugD/turkish-formality-rewrite-500k",
+          "task": null,
+          "downloads": 81,
+          "likes": 0,
+          "last_modified": "2026-08-11T10:13:08.000Z"
+        },
+        {
+          "id": "GoktugD/turkish-intent-classification-1m",
+          "url": "https://huggingface.co/datasets/GoktugD/turkish-intent-classification-1m",
+          "task": null,
+          "downloads": 56,
+          "likes": 0,
+          "last_modified": "2026-08-11T10:13:01.000Z"
+        },
+        {
+          "id": "GoktugD/turkish-keyword-extraction-500k",
+          "url": "https://huggingface.co/datasets/GoktugD/turkish-keyword-extraction-500k",
+          "task": null,
+          "downloads": 81,
+          "likes": 0,
+          "last_modified": "2026-08-11T10:13:28.000Z"
+        },
+        {
+          "id": "GoktugD/turkish-ner-synthetic-1m",
+          "url": "https://huggingface.co/datasets/GoktugD/turkish-ner-synthetic-1m",
+          "task": null,
+          "downloads": 63,
+          "likes": 0,
+          "last_modified": "2026-08-11T10:13:19.000Z"
+        },
+        {
+          "id": "GoktugD/turkish-nli-constructed-1.5m",
+          "url": "https://huggingface.co/datasets/GoktugD/turkish-nli-constructed-1.5m",
+          "task": null,
+          "downloads": 71,
+          "likes": 0,
+          "last_modified": "2026-08-11T10:13:30.000Z"
+        },
+        {
+          "id": "GoktugD/turkish-number-words-1m",
+          "url": "https://huggingface.co/datasets/GoktugD/turkish-number-words-1m",
+          "task": null,
+          "downloads": 54,
+          "likes": 0,
+          "last_modified": "2026-08-11T10:13:16.000Z"
+        },
+        {
+          "id": "GoktugD/turkish-punctuation-restoration-500k",
+          "url": "https://huggingface.co/datasets/GoktugD/turkish-punctuation-restoration-500k",
+          "task": null,
+          "downloads": 110,
+          "likes": 0,
+          "last_modified": "2026-08-11T10:13:25.000Z"
+        },
+        {
+          "id": "GoktugD/turkish-question-type-500k",
+          "url": "https://huggingface.co/datasets/GoktugD/turkish-question-type-500k",
+          "task": null,
+          "downloads": 67,
+          "likes": 0,
+          "last_modified": "2026-08-11T10:13:11.000Z"
+        },
+        {
+          "id": "GoktugD/turkish-retrieval-constructed-1m",
+          "url": "https://huggingface.co/datasets/GoktugD/turkish-retrieval-constructed-1m",
+          "task": null,
+          "downloads": 116,
+          "likes": 0,
+          "last_modified": "2026-08-11T10:13:21.000Z"
+        },
+        {
+          "id": "GoktugD/turkish-sentiment-1m",
+          "url": "https://huggingface.co/datasets/GoktugD/turkish-sentiment-1m",
+          "task": null,
+          "downloads": 53,
+          "likes": 0,
+          "last_modified": "2026-08-11T10:13:05.000Z"
+        },
+        {
+          "id": "GoktugD/turkish-structured-summarization-1.5m",
+          "url": "https://huggingface.co/datasets/GoktugD/turkish-structured-summarization-1.5m",
+          "task": null,
+          "downloads": 143,
+          "likes": 0,
+          "last_modified": "2026-08-11T10:13:35.000Z"
+        },
+        {
+          "id": "GoktugD/turkish-text-normalization-1m",
+          "url": "https://huggingface.co/datasets/GoktugD/turkish-text-normalization-1m",
+          "task": null,
+          "downloads": 67,
+          "likes": 0,
+          "last_modified": "2026-08-11T10:12:58.000Z"
+        },
+        {
+          "id": "GoktugD/turkish-topic-classification-1.5m",
+          "url": "https://huggingface.co/datasets/GoktugD/turkish-topic-classification-1.5m",
+          "task": null,
+          "downloads": 53,
+          "likes": 0,
+          "last_modified": "2026-08-11T10:13:37.000Z"
+        }
+      ],
+      "spaces": [
+        {
+          "id": "GoktugD/DUSUNEN-AI-Lab",
+          "url": "https://huggingface.co/spaces/GoktugD/DUSUNEN-AI-Lab",
+          "task": null,
+          "downloads": 0,
+          "likes": 0,
+          "last_modified": "2026-08-21T13:32:43.000Z"
+        },
+        {
+          "id": "GoktugD/DUSUNEN-Cited-RAG",
+          "url": "https://huggingface.co/spaces/GoktugD/DUSUNEN-Cited-RAG",
+          "task": null,
+          "downloads": 0,
+          "likes": 0,
+          "last_modified": "2026-08-13T19:16:01.000Z"
+        },
+        {
+          "id": "GoktugD/DUSUNEN-Dinle-Demo",
+          "url": "https://huggingface.co/spaces/GoktugD/DUSUNEN-Dinle-Demo",
+          "task": null,
+          "downloads": 0,
+          "likes": 0,
+          "last_modified": "2026-08-14T16:26:03.000Z"
+        },
+        {
+          "id": "GoktugD/DUSUNEN-Nokta-Demo",
+          "url": "https://huggingface.co/spaces/GoktugD/DUSUNEN-Nokta-Demo",
+          "task": null,
+          "downloads": 0,
+          "likes": 0,
+          "last_modified": "2026-08-14T16:25:40.000Z"
+        },
+        {
+          "id": "GoktugD/DUSUNEN-Oku-Demo",
+          "url": "https://huggingface.co/spaces/GoktugD/DUSUNEN-Oku-Demo",
+          "task": null,
+          "downloads": 0,
+          "likes": 0,
+          "last_modified": "2026-08-15T13:18:36.000Z"
+        },
+        {
+          "id": "GoktugD/DUSUNEN-Search-Lab",
+          "url": "https://huggingface.co/spaces/GoktugD/DUSUNEN-Search-Lab",
+          "task": null,
+          "downloads": 0,
+          "likes": 0,
+          "last_modified": "2026-08-13T19:22:02.000Z"
+        },
+        {
+          "id": "GoktugD/DUSUNEN-Vector-Lab",
+          "url": "https://huggingface.co/spaces/GoktugD/DUSUNEN-Vector-Lab",
+          "task": null,
+          "downloads": 0,
+          "likes": 0,
+          "last_modified": "2026-08-13T19:41:10.000Z"
+        },
+        {
+          "id": "GoktugD/nanosoc1-security-lab",
+          "url": "https://huggingface.co/spaces/GoktugD/nanosoc1-security-lab",
+          "task": null,
+          "downloads": 0,
+          "likes": 1,
+          "last_modified": "2026-08-12T11:16:57.000Z"
+        },
+        {
+          "id": "GoktugD/Werea-TSS",
+          "url": "https://huggingface.co/spaces/GoktugD/Werea-TSS",
+          "task": null,
+          "downloads": 0,
+          "likes": 0,
+          "last_modified": "2026-08-14T10:37:15.000Z"
+        }
+      ]
+    },
+    "Werea-co": {
+      "models": [
+        {
+          "id": "Werea-co/DUSUNEN-Rota-270M-v3",
+          "url": "https://huggingface.co/Werea-co/DUSUNEN-Rota-270M-v3",
+          "task": "sentence-similarity",
+          "downloads": 13,
+          "likes": 1,
+          "last_modified": "2026-08-21T06:46:18.000Z"
+        },
+        {
+          "id": "Werea-co/Werea-DocOCR-1B",
+          "url": "https://huggingface.co/Werea-co/Werea-DocOCR-1B",
+          "task": "image-to-text",
+          "downloads": 36,
+          "likes": 1,
+          "last_modified": "2026-08-20T06:57:34.000Z"
+        },
+        {
+          "id": "Werea-co/Werea-Gemstone-Person-Object-Detector-Small",
+          "url": "https://huggingface.co/Werea-co/Werea-Gemstone-Person-Object-Detector-Small",
+          "task": "object-detection",
+          "downloads": 0,
+          "likes": 0,
+          "last_modified": "2026-08-24T11:42:42.000Z"
+        },
+        {
+          "id": "Werea-co/Werea-LLM-3B",
+          "url": "https://huggingface.co/Werea-co/Werea-LLM-3B",
+          "task": "text-generation",
+          "downloads": 8,
+          "likes": 0,
+          "last_modified": "2026-08-21T06:42:37.000Z"
+        },
+        {
+          "id": "Werea-co/Werea-NanoSOC-8B",
+          "url": "https://huggingface.co/Werea-co/Werea-NanoSOC-8B",
+          "task": "text-generation",
+          "downloads": 36,
+          "likes": 0,
+          "last_modified": "2026-08-21T17:40:15.000Z"
+        },
+        {
+          "id": "Werea-co/Werea-SecAssist-8B",
+          "url": "https://huggingface.co/Werea-co/Werea-SecAssist-8B",
+          "task": "text-generation",
+          "downloads": 0,
+          "likes": 0,
+          "last_modified": "2026-08-21T14:04:01.000Z"
+        },
+        {
+          "id": "Werea-co/Werea-TR-Intent",
+          "url": "https://huggingface.co/Werea-co/Werea-TR-Intent",
+          "task": "text-classification",
+          "downloads": 18,
+          "likes": 0,
+          "last_modified": "2026-08-21T14:17:15.000Z"
+        },
+        {
+          "id": "Werea-co/Werea-TR-NER",
+          "url": "https://huggingface.co/Werea-co/Werea-TR-NER",
+          "task": "token-classification",
+          "downloads": 13,
+          "likes": 0,
+          "last_modified": "2026-08-21T13:45:44.000Z"
+        },
+        {
+          "id": "Werea-co/Werea-TR-NLI",
+          "url": "https://huggingface.co/Werea-co/Werea-TR-NLI",
+          "task": "text-classification",
+          "downloads": 20,
+          "likes": 0,
+          "last_modified": "2026-08-21T14:14:35.000Z"
+        },
+        {
+          "id": "Werea-co/Werea-TR-QA",
+          "url": "https://huggingface.co/Werea-co/Werea-TR-QA",
+          "task": "question-answering",
+          "downloads": 17,
+          "likes": 0,
+          "last_modified": "2026-08-21T17:18:07.000Z"
+        },
+        {
+          "id": "Werea-co/Werea-TR-QuestionType",
+          "url": "https://huggingface.co/Werea-co/Werea-TR-QuestionType",
+          "task": "text-classification",
+          "downloads": 12,
+          "likes": 0,
+          "last_modified": "2026-08-21T14:03:56.000Z"
+        },
+        {
+          "id": "Werea-co/Werea-TR-Sentiment",
+          "url": "https://huggingface.co/Werea-co/Werea-TR-Sentiment",
+          "task": "text-classification",
+          "downloads": 20,
+          "likes": 0,
+          "last_modified": "2026-08-21T13:08:20.000Z"
+        },
+        {
+          "id": "Werea-co/Werea-TR-Summarizer",
+          "url": "https://huggingface.co/Werea-co/Werea-TR-Summarizer",
+          "task": "summarization",
+          "downloads": 15,
+          "likes": 0,
+          "last_modified": "2026-08-21T15:38:00.000Z"
+        },
+        {
+          "id": "Werea-co/Werea-TR-TextRestore",
+          "url": "https://huggingface.co/Werea-co/Werea-TR-TextRestore",
+          "task": "text-generation",
+          "downloads": 524,
+          "likes": 2,
+          "last_modified": "2026-08-21T17:02:49.000Z"
+        },
+        {
+          "id": "Werea-co/Werea-TR-Topic",
+          "url": "https://huggingface.co/Werea-co/Werea-TR-Topic",
+          "task": "text-classification",
+          "downloads": 20,
+          "likes": 0,
+          "last_modified": "2026-08-21T14:05:02.000Z"
+        },
+        {
+          "id": "Werea-co/Werea-TSS",
+          "url": "https://huggingface.co/Werea-co/Werea-TSS",
+          "task": "text-to-speech",
+          "downloads": 45,
+          "likes": 1,
+          "last_modified": "2026-08-14T10:27:33.000Z"
+        },
+        {
+          "id": "Werea-co/Werea-TSS-1.7B",
+          "url": "https://huggingface.co/Werea-co/Werea-TSS-1.7B",
+          "task": "text-to-speech",
+          "downloads": 0,
+          "likes": 0,
+          "last_modified": "2026-08-18T20:20:58.000Z"
+        }
+      ],
+      "datasets": [
+        {
+          "id": "Werea-co/werea-secassist-tr",
+          "url": "https://huggingface.co/datasets/Werea-co/werea-secassist-tr",
+          "task": null,
+          "downloads": 30,
+          "likes": 0,
+          "last_modified": "2026-08-21T12:50:15.000Z"
+        },
+        {
+          "id": "Werea-co/werea-tr-doc-ocr-enterprise-v2",
+          "url": "https://huggingface.co/datasets/Werea-co/werea-tr-doc-ocr-enterprise-v2",
+          "task": null,
+          "downloads": 170,
+          "likes": 0,
+          "last_modified": "2026-08-19T07:51:28.000Z"
+        },
+        {
+          "id": "Werea-co/werea-tr-doc-ocr-synthetic",
+          "url": "https://huggingface.co/datasets/Werea-co/werea-tr-doc-ocr-synthetic",
+          "task": null,
+          "downloads": 116,
+          "likes": 0,
+          "last_modified": "2026-08-18T14:47:02.000Z"
+        },
+        {
+          "id": "Werea-co/werea-tts-tr-synthetic",
+          "url": "https://huggingface.co/datasets/Werea-co/werea-tts-tr-synthetic",
+          "task": null,
+          "downloads": 69,
+          "likes": 0,
+          "last_modified": "2026-08-18T13:41:21.000Z"
+        }
+      ],
+      "spaces": [
+        {
+          "id": "Werea-co/Argus",
+          "url": "https://huggingface.co/spaces/Werea-co/Argus",
+          "task": null,
+          "downloads": 0,
+          "likes": 1,
+          "last_modified": "2026-08-24T10:49:50.000Z"
+        },
+        {
+          "id": "Werea-co/argus-security-console",
+          "url": "https://huggingface.co/spaces/Werea-co/argus-security-console",
+          "task": null,
+          "downloads": 0,
+          "likes": 2,
+          "last_modified": "2026-08-24T10:05:32.000Z"
+        },
+        {
+          "id": "Werea-co/Werea-DocOCR",
+          "url": "https://huggingface.co/spaces/Werea-co/Werea-DocOCR",
+          "task": null,
+          "downloads": 0,
+          "likes": 0,
+          "last_modified": "2026-08-21T06:59:54.000Z"
+        },
+        {
+          "id": "Werea-co/Werea-NanoSOC",
+          "url": "https://huggingface.co/spaces/Werea-co/Werea-NanoSOC",
+          "task": null,
+          "downloads": 0,
+          "likes": 0,
+          "last_modified": "2026-08-21T06:59:56.000Z"
+        },
+        {
+          "id": "Werea-co/Werea-TSS",
+          "url": "https://huggingface.co/spaces/Werea-co/Werea-TSS",
+          "task": null,
+          "downloads": 0,
+          "likes": 0,
+          "last_modified": "2026-08-14T10:41:41.000Z"
+        }
+      ]
+    }
+  }
+}

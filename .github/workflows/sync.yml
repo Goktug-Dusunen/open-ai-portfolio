@@ -30,6 +30,6 @@ jobs:
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md data/portfolio.json
+          git add README.md data/portfolio.json docs/portfolio.json
           git commit -m "chore: sync Hugging Face portfolio [skip ci]"
           git push
