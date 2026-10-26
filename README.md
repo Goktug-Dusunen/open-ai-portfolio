@@ -24,27 +24,27 @@ This repository makes the Hugging Face portfolio discoverable from GitHub while 
 
 ## Current snapshot
 
-Last synchronized: `2026-10-19T13:06:53+00:00`
+Last synchronized: `2026-10-26T12:55:19+00:00`
 
 | Publisher | Models | Datasets | Spaces | Downloads |
 |---|---:|---:|---:|---:|
-| [GoktugD](https://huggingface.co/GoktugD) | 30 | 20 | 9 | 3,901 |
-| [Werea-co](https://huggingface.co/Werea-co) | 19 | 5 | 6 | 2,767 |
+| [GoktugD](https://huggingface.co/GoktugD) | 30 | 20 | 9 | 3,973 |
+| [Werea-co](https://huggingface.co/Werea-co) | 19 | 5 | 6 | 2,272 |
 
 ## Most-used models
 
 | Model | Task | Downloads | Likes |
 |---|---|---:|---:|
-| [GoktugD/DUSUNEN-Rota-270M-v1](https://huggingface.co/GoktugD/DUSUNEN-Rota-270M-v1) | sentence-similarity | 211 | 1 |
-| [Werea-co/Werea-TR-TextRestore](https://huggingface.co/Werea-co/Werea-TR-TextRestore) | text-generation | 179 | 6 |
-| [Werea-co/Werea-DocOCR-1B](https://huggingface.co/Werea-co/Werea-DocOCR-1B) | image-to-text | 59 | 5 |
-| [GoktugD/NanoSOC-Gemstone-4B-GGUF](https://huggingface.co/GoktugD/NanoSOC-Gemstone-4B-GGUF) | text-generation | 50 | 0 |
-| [GoktugD/DUSUNEN-Nokta-68M-v1](https://huggingface.co/GoktugD/DUSUNEN-Nokta-68M-v1) | token-classification | 36 | 1 |
-| [GoktugD/Werea-TR-TextRestore](https://huggingface.co/GoktugD/Werea-TR-TextRestore) | text-generation | 34 | 1 |
-| [GoktugD/NanoSOC-Gemstone-2B-GGUF](https://huggingface.co/GoktugD/NanoSOC-Gemstone-2B-GGUF) | text-generation | 32 | 0 |
-| [Werea-co/Werea-KVKK-PII-150M](https://huggingface.co/Werea-co/Werea-KVKK-PII-150M) | token-classification | 29 | 0 |
-| [GoktugD/DUSUNEN-Oku-62M-v1](https://huggingface.co/GoktugD/DUSUNEN-Oku-62M-v1) | image-to-text | 27 | 1 |
-| [Werea-co/Werea-TR-Summarizer](https://huggingface.co/Werea-co/Werea-TR-Summarizer) | summarization | 23 | 0 |
+| [Werea-co/Werea-TR-TextRestore](https://huggingface.co/Werea-co/Werea-TR-TextRestore) | text-generation | 137 | 6 |
+| [GoktugD/DUSUNEN-Rota-270M-v1](https://huggingface.co/GoktugD/DUSUNEN-Rota-270M-v1) | sentence-similarity | 121 | 1 |
+| [GoktugD/NanoSOC-Gemstone-4B-GGUF](https://huggingface.co/GoktugD/NanoSOC-Gemstone-4B-GGUF) | text-generation | 44 | 0 |
+| [Werea-co/Werea-KVKK-PII-150M](https://huggingface.co/Werea-co/Werea-KVKK-PII-150M) | token-classification | 42 | 0 |
+| [Werea-co/Werea-DocOCR-1B](https://huggingface.co/Werea-co/Werea-DocOCR-1B) | image-to-text | 37 | 5 |
+| [GoktugD/DUSUNEN-Oku-62M-v1](https://huggingface.co/GoktugD/DUSUNEN-Oku-62M-v1) | image-to-text | 34 | 1 |
+| [GoktugD/DUSUNEN-Nokta-68M-v1](https://huggingface.co/GoktugD/DUSUNEN-Nokta-68M-v1) | token-classification | 32 | 1 |
+| [GoktugD/NanoSOC-Gemstone-2B-GGUF](https://huggingface.co/GoktugD/NanoSOC-Gemstone-2B-GGUF) | text-generation | 27 | 0 |
+| [GoktugD/Werea-TR-TextRestore](https://huggingface.co/GoktugD/Werea-TR-TextRestore) | text-generation | 21 | 1 |
+| [GoktugD/DUSUNEN-Atlas-278M-v1](https://huggingface.co/GoktugD/DUSUNEN-Atlas-278M-v1) | sentence-similarity | 18 | 3 |
 
 <!-- portfolio:end -->
 
